@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/finalmyportfolio/static/css/main.fad1d6df.css",
-    "main.js": "/finalmyportfolio/static/js/main.5a016a6f.js",
+    "main.js": "/finalmyportfolio/static/js/main.c42532bb.js",
     "static/js/787.98405073.chunk.js": "/finalmyportfolio/static/js/787.98405073.chunk.js",
     "static/media/somebody.png": "/finalmyportfolio/static/media/somebody.44c400beb1dcd9b8019f.png",
     "static/media/ai2.png": "/finalmyportfolio/static/media/ai2.dba33bd4bdc131cf347f.png",
     "static/media/html.png": "/finalmyportfolio/static/media/html.f5be57828d9e566f809a.png",
-    "static/media/reactku.png": "/finalmyportfolio/static/media/reactku.39f21cf723a11e380dbe.png",
+    "static/media/java-script.png": "/finalmyportfolio/static/media/java-script.9722955358c13b1e30e0.png",
     "static/media/final-robot.png": "/finalmyportfolio/static/media/final-robot.de6afdde67f33529ed82.png",
     "static/media/librarycss.png": "/finalmyportfolio/static/media/librarycss.f6d27800c9be4fd809a3.png",
-    "static/media/javaScript.png": "/finalmyportfolio/static/media/javaScript.130c0ecd57833da6f75c.png",
+    "static/media/logo-reactnew.png": "/finalmyportfolio/static/media/logo-reactnew.07050ac3178c6058ece2.png",
     "static/media/css.png": "/finalmyportfolio/static/media/css.ea288392eb9727e8ceee.png",
     "static/media/newmysql.png": "/finalmyportfolio/static/media/newmysql.a1ebdb1f70226509cbad.png",
     "index.html": "/finalmyportfolio/index.html",
     "main.fad1d6df.css.map": "/finalmyportfolio/static/css/main.fad1d6df.css.map",
-    "main.5a016a6f.js.map": "/finalmyportfolio/static/js/main.5a016a6f.js.map",
+    "main.c42532bb.js.map": "/finalmyportfolio/static/js/main.c42532bb.js.map",
     "787.98405073.chunk.js.map": "/finalmyportfolio/static/js/787.98405073.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fad1d6df.css",
-    "static/js/main.5a016a6f.js"
+    "static/js/main.c42532bb.js"
   ]
 }
